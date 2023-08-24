@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!g
 * [x] Implemented a Navbar at the top of the website for easier navigation to the Stats and Our Games section of the website.
 
 ## Video Walkthrough
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='PrinsaSeaMonster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created by first screen-recording a video on Windows.
+GIF created by first screen-recording a video on Windows using WindowsKey+Alt+G.
 Then, coverted video to GIF using this website: https://www.onlineconverter.com/video-to-gif 
 
 
