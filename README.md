@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='PrinsaSeaMonster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created by first screen-recording a video on Windows.
 Then, coverted video to GIF using this website: https://www.onlineconverter.com/video-to-gif 
